@@ -1,2 +1,6 @@
 # iOS_reverse_engineering
-all iOS reverse engineering sources
+All iOS reverse engineering training materials
+-> documents
+-> scripts
+-> tutorials
+-> solutions
